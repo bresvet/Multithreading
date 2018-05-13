@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/multithread_1.dir/main.cpp.o  -o multithread_1 
